@@ -315,4 +315,4 @@ Exe не подписан, поэтому Windows Smart App Control (включ�
 Неофициальный проект. Не связан с Mojang Studios, Microsoft, Modrinth,
 CurseForge, Fabric, Forge и NeoForge. Minecraft — торговая марка Mojang AB.
 
-Код написан с ИИ на 99%, если хотите использовать лаунчер то пользуйтесь.
+
